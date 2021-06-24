@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jorhcert
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning Ansible
